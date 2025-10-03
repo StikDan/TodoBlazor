@@ -27,3 +27,4 @@
 /home/stikdan/repos/TodoBlazor/obj/Debug/net8.0/TodoBlazor.pdb
 /home/stikdan/repos/TodoBlazor/obj/Debug/net8.0/TodoBlazor.genruntimeconfig.cache
 /home/stikdan/repos/TodoBlazor/obj/Debug/net8.0/ref/TodoBlazor.dll
+/home/stikdan/repos/TodoBlazor/obj/Debug/net8.0/TodoBlazor.sourcelink.json
